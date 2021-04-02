@@ -1,0 +1,6 @@
+C:\Users\Benga\source\repos\DevTeamApp\KomodoRepository\bin\Debug\KomodoRepository.dll
+C:\Users\Benga\source\repos\DevTeamApp\KomodoRepository\bin\Debug\KomodoRepository.pdb
+C:\Users\Benga\source\repos\DevTeamApp\KomodoRepository\obj\Debug\KomodoRepository.csprojAssemblyReference.cache
+C:\Users\Benga\source\repos\DevTeamApp\KomodoRepository\obj\Debug\KomodoRepository.csproj.CoreCompileInputs.cache
+C:\Users\Benga\source\repos\DevTeamApp\KomodoRepository\obj\Debug\KomodoRepository.dll
+C:\Users\Benga\source\repos\DevTeamApp\KomodoRepository\obj\Debug\KomodoRepository.pdb

@@ -1,0 +1,7 @@
+C:\Users\Benga\source\repos\DevTeamApp\KomodoInsuranceRepository\bin\Debug\KomodoInsuranceRepository.exe.config
+C:\Users\Benga\source\repos\DevTeamApp\KomodoInsuranceRepository\bin\Debug\KomodoInsuranceRepository.exe
+C:\Users\Benga\source\repos\DevTeamApp\KomodoInsuranceRepository\bin\Debug\KomodoInsuranceRepository.pdb
+C:\Users\Benga\source\repos\DevTeamApp\KomodoInsuranceRepository\obj\Debug\KomodoInsuranceRepository.csprojAssemblyReference.cache
+C:\Users\Benga\source\repos\DevTeamApp\KomodoInsuranceRepository\obj\Debug\KomodoInsuranceRepository.csproj.CoreCompileInputs.cache
+C:\Users\Benga\source\repos\DevTeamApp\KomodoInsuranceRepository\obj\Debug\KomodoInsuranceRepository.exe
+C:\Users\Benga\source\repos\DevTeamApp\KomodoInsuranceRepository\obj\Debug\KomodoInsuranceRepository.pdb

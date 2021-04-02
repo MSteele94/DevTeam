@@ -1,0 +1,12 @@
+C:\Users\Benga\source\repos\DevTeamApp\DevTeams_UI\obj\Debug\DevTeams_UI.csprojAssemblyReference.cache
+C:\Users\Benga\source\repos\DevTeamApp\DevTeams_UI\obj\Debug\DevTeams_UI.csproj.CoreCompileInputs.cache
+C:\Users\Benga\source\repos\DevTeamApp\DevTeams_UI\bin\Debug\DevTeams_UI.exe.config
+C:\Users\Benga\source\repos\DevTeamApp\DevTeams_UI\bin\Debug\DevTeams_UI.exe
+C:\Users\Benga\source\repos\DevTeamApp\DevTeams_UI\bin\Debug\DevTeams_UI.pdb
+C:\Users\Benga\source\repos\DevTeamApp\DevTeams_UI\bin\Debug\DevTeam.Data.dll
+C:\Users\Benga\source\repos\DevTeamApp\DevTeams_UI\bin\Debug\DevTeamRepository.dll
+C:\Users\Benga\source\repos\DevTeamApp\DevTeams_UI\bin\Debug\DevTeam.Data.pdb
+C:\Users\Benga\source\repos\DevTeamApp\DevTeams_UI\bin\Debug\DevTeamRepository.pdb
+C:\Users\Benga\source\repos\DevTeamApp\DevTeams_UI\obj\Debug\DevTeams_UI.csproj.CopyComplete
+C:\Users\Benga\source\repos\DevTeamApp\DevTeams_UI\obj\Debug\DevTeams_UI.exe
+C:\Users\Benga\source\repos\DevTeamApp\DevTeams_UI\obj\Debug\DevTeams_UI.pdb

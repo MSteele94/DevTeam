@@ -1,0 +1,9 @@
+C:\Users\Benga\source\repos\DevTeamApp\DevTeamRepo\bin\Debug\DevTeamRepo.dll
+C:\Users\Benga\source\repos\DevTeamApp\DevTeamRepo\bin\Debug\DevTeamRepo.pdb
+C:\Users\Benga\source\repos\DevTeamApp\DevTeamRepo\bin\Debug\DevTeam.Data.dll
+C:\Users\Benga\source\repos\DevTeamApp\DevTeamRepo\bin\Debug\DevTeam.Data.pdb
+C:\Users\Benga\source\repos\DevTeamApp\DevTeamRepo\obj\Debug\DevTeamRepo.csprojAssemblyReference.cache
+C:\Users\Benga\source\repos\DevTeamApp\DevTeamRepo\obj\Debug\DevTeamRepo.csproj.CoreCompileInputs.cache
+C:\Users\Benga\source\repos\DevTeamApp\DevTeamRepo\obj\Debug\DevTeamRepo.csproj.CopyComplete
+C:\Users\Benga\source\repos\DevTeamApp\DevTeamRepo\obj\Debug\DevTeamRepo.dll
+C:\Users\Benga\source\repos\DevTeamApp\DevTeamRepo\obj\Debug\DevTeamRepo.pdb
